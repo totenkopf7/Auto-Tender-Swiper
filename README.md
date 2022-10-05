@@ -7,8 +7,6 @@ Open main.py file with a text editor, add your email and password, and then run 
 # Requirements 
 You need to have python installed on your computer.
 
-# Note 
-If you use gmail for this purpose, consider turning "Less Secure Apps" option ON to be able to sign in automatically when running this tool.
 
 ---------
 Goodluck finding your soulmate ;)
