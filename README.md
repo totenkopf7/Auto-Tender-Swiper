@@ -10,4 +10,5 @@ You need to have python installed on your computer.
 # Note 
 If you use gmail for this purpose, consider turning "Less Secure Apps" option ON to be able to sign in automatically when running this tool.
 
+---------
 Goodluck finding your soulmate ;)
